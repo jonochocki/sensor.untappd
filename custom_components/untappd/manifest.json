@@ -1,12 +1,13 @@
 {
   "domain": "untappd",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "name": "Untappd",
-  "documentation": "https://github.com/custom-components/sensor.untappd/blob/master/README.md",
+  "documentation": "https://github.com/jonochocki/sensor.untappd/blob/master/README.md",
   "dependencies": [],
   "codeowners": [
   "@iantrich",
-  "@swetoast"
+  "@swetoast",
+  "@jonochocki"
   ],
   "requirements": ["pyuntappd==0.0.5"]
 }

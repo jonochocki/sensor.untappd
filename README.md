@@ -9,6 +9,9 @@
 ![Project Maintenances][maintenance-shield1]
 
 
+THIS IS A FORK OF : https://github.com/custom-components/sensor.untappd
+This fork aims to add Venue Information to the array of populated data.
+
 
 Get Untappd last badge, check-in, wishlist and more in Home Assistant use the [list-card](https://github.com/custom-cards/list-card) by [iantrich](https://github.com/iantrich) to display your wishlist in Lovelace.
 
